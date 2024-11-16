@@ -28,7 +28,7 @@ ___
 
 ## Dashboard Preview
 Here is an example of a Power BI dashboard created for the CRM Sales System:
-![image](https://github.com/user-attachments/assets/14b66cf6-4c46-461b-8bf1-76215fadd893)
+![image](https://github.com/user-attachments/assets/8f341e64-5e70-464a-b38a-8f07bd8d4ead)
 
 
 ___
@@ -120,11 +120,12 @@ For questions, issues, or feedback, please reach out to:
 - Name: Saloni Kumari
 - Email: salonikumari307@gmail.com
 - GitHub: https://github.com/Saloni-1400
-
+- LinkedIn: www.linkedin.com/in/salonikumarii
+---
 - Name: Hari Prit Singh
 - Email: harpritsingh638@gmail.com
 - GitHub: https://github.com/hariprit638
-
+- LinkedIn: https://www.linkedin.com/in/hari-prit-singh-2271681b3/
 
 
 
