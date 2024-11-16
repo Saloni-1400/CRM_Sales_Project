@@ -76,12 +76,12 @@ pip install -r requirements.txt
  - Create a database for the CRM system:
 
 CREATE DATABASE crm_sales;
-Update the database connection details in the .env file:
+- Update the database connection details in the .env file:
 env
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=your_password
-DB_NAME=crm_sales
+- DB_HOST=localhost
+- DB_USER=root
+- DB_PASSWORD=your_password
+- DB_NAME=crm_sales
 
 **Run the Application:**
 - Launch Jupyter Notebook to run the Python scripts:
