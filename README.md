@@ -118,7 +118,7 @@ This project is licensed under the MIT License.
 For questions, issues, or feedback, please reach out to:
 
 - Name: Saloni Kumari
-- Email: Salonikumari307gmail.com
+- Email: salonikumari307@gmail.com
 - GitHub: https://github.com/Saloni-1400
 
 - Name: Hari Prit Singh
