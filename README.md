@@ -110,8 +110,7 @@ Open the notebook file (Data_Processed-checkpoint.ipynb) and execute the cells t
   - git commit -m "Add feature-name"
   - Push your branch and create a pull request.
 ---
-## License
-This project is licensed under the MIT License.
+
 ---
 
 ### Contact
